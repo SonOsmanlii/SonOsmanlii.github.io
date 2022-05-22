@@ -4,8 +4,20 @@
    top: 50%;
    left: 50%;
    transform:translate(-50%, -50%);
-   color: black;
+   color: white;
 }
+
+#backgroundBody{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background: url(arkaplan3.PNG);
+    background-size: cover;
+    background-color: #464646;
+}
+ 
+
+    
 
 .fa{
     padding: 20px;
