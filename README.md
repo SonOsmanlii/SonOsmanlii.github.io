@@ -1,1 +1,0 @@
-# SonOsmanlii.github.io q
